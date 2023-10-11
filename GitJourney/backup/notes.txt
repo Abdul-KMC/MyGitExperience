@@ -1,0 +1,1 @@
+mkdir directory_name // to create a new directory <br> touch file_name.extension // to create new file <br> echo write your custom text here >> file_name.extension // to add content to .txt file using echo command <br> cat file_name.extension // to display the content of file <br>
